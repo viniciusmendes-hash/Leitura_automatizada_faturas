@@ -1,0 +1,9 @@
+{
+  "pasta_entrada": "entrada",
+  "pasta_saida": "saida",
+  "banco_sqlite": "faturas.db",
+  "arquivo_excel": "saida/relatorio_faturas.xlsx",
+  "processar_recursivamente": false,
+  "mover_pdf_processado": false,
+  "validar_valor_total": true
+}

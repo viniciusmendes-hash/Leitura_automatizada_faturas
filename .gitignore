@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+faturas.db
+logs/*.log
+saida/*.xlsx
+saida/*.csv
